@@ -11,7 +11,7 @@ URL:		http://www.freedesktop.org/wiki/Software/urfkill
 BuildRequires:	dbus-devel >= 1.0
 BuildRequires:	dbus-glib-devel >= 0.76
 BuildRequires:	expat-devel
-BuildRequires:	gettext-devel >= 0.17
+BuildRequires:	gettext-tools >= 0.17
 BuildRequires:	glib2-devel >= 1:2.21.5
 BuildRequires:	gobject-introspection-devel >= 0.6.7
 BuildRequires:	gtk-doc >= 1.14
